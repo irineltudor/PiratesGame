@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579122696 source:e:\work\proiect facultate\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<MMsystem.h>
+
